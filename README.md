@@ -1,11 +1,17 @@
 # ndd-wheels
 platform-specific python wheels for the **ndd** package
 
-Install with pip/pip3:
-```python
-pip install <ndd-wheel>
+Download the wheel file and install with pip/pip3:
+```
+pip install downloaded_file
 ```
 
 Available wheels:
-- [ndd-1.4.1-cp36-cp36m-linux_x86_64.whl](https://github.com/simomarsili/ndd-wheels/raw/master/ndd-1.4.1-cp36-cp36m-linux_x86_64.whl)
-- [ndd-1.4.1-cp37-cp37m-win_amd64.whl](https://github.com/simomarsili/ndd-wheels/raw/master/ndd-1.4.1-cp37-cp37m-win_amd64.whl)
+
+| ndd version | Python | Linux | Windows |
+| :---------- | ------ | :---- | :------ |
+| 1.4.1       | 3.7    | -     | [ndd-1.4.1-cp37-cp37m-win_amd64.whl](https://github.com/simomarsili/ndd-wheels/raw/master/ndd-1.4.1-cp37-cp37m-win_amd64.whl) |
+| 1.4.1       | 3.6    | [ndd-1.4.1-cp36-cp36m-linux_x86_64.whl](https://github.com/simomarsili/ndd-wheels/raw/master/ndd-1.4.1-cp36-cp36m-linux_x86_64.whl) | [ndd-1.4.1-cp36-cp36m-win_amd64.whl](https://github.com/simomarsili/ndd-wheels/raw/master/ndd-1.4.1-cp36-cp36m-win_amd64.whl) |
+
+
+
