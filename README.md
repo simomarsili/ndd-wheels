@@ -3,6 +3,7 @@ platform-specific python wheels for the **ndd** package
 
 Download the wheel file and install with pip/pip3:
 ```
+pip install -U numpy # numpy>=1.16
 pip install downloaded_file
 ```
 
