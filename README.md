@@ -1,5 +1,5 @@
 # ndd-wheels
-platform-specific python wheels for the **ndd** package
+platform-specific python wheels for the [ndd](https://github.com/simomarsili/ndd) package
 
 Download the wheel file and install with pip/pip3:
 ```
